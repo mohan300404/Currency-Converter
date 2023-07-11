@@ -58,6 +58,7 @@ select{
     width: 80%;
     height: 4vh;
     cursor: pointer;
+    background:white;
 }
 input{
     width: 100%;
